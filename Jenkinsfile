@@ -1,3 +1,3 @@
-@Library('first-shared-lib') _
+@Library('jenkins-shared') _
 project1 {
 }
